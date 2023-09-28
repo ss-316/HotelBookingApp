@@ -1,0 +1,49 @@
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2019 configuration folder
+.vs2022/
+
