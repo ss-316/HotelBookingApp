@@ -1,0 +1,101 @@
+# Visual Studio Code files
+.vscode/
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+<<<<<<< HEAD
+# Rider
+.idea/
+
+=======
+ 
+
+# Rider
+.idea/
+
+ 
+
+>>>>>>> 309619e (register setup)
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 309619e (register setup)
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Oo]bj/
+
+<<<<<<< HEAD
+# Visual Studio 2019 configuration folder
+.vs2022/
+
+=======
+ 
+
+# Visual Studio 2019 configuration folder
+.vs2022/
+>>>>>>> 309619e (register setup)

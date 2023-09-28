@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+<<<<<<< HEAD
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBookingApp", "HotelBookingApp\HotelBookingApp.csproj", "{B8FE7619-8C6B-4E7E-B8CE-6920D46B6C07}"
+=======
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBookingApp", "HotelBookingApp\HotelBookingApp.csproj", "{30869C53-5301-4007-B130-185DA23FAFC7}"
+>>>>>>> 309619e (register setup)
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{B8FE7619-8C6B-4E7E-B8CE-6920D46B6C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FE7619-8C6B-4E7E-B8CE-6920D46B6C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FE7619-8C6B-4E7E-B8CE-6920D46B6C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FE7619-8C6B-4E7E-B8CE-6920D46B6C07}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{30869C53-5301-4007-B130-185DA23FAFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30869C53-5301-4007-B130-185DA23FAFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30869C53-5301-4007-B130-185DA23FAFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30869C53-5301-4007-B130-185DA23FAFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 309619e (register setup)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {25D3F313-A708-4361-96C7-D0535F788F8E}
+=======
+		SolutionGuid = {F20C9543-1FCE-46C4-8B79-15319A806E15}
+>>>>>>> 309619e (register setup)
+	EndGlobalSection
+EndGlobal
